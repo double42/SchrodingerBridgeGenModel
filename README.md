@@ -32,8 +32,6 @@ Install all dependencies with:
 pip install -r requirements.txt
 ```
 
-It is recommended to create a virtual environment beforehand, e.g. using
-`python3 -m venv sb_env` and `source sb_env/bin/activate`.
 
 ## Example
 
